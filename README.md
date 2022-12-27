@@ -58,7 +58,7 @@ class HelloHandler(BaseHTTPRequestHandler):
 
 # OUTPUT:
 
-![OUTPUT](.image/Result.png)
+![OUTPUT](.image/Result.png.png)
 
 # RESULT:
 
